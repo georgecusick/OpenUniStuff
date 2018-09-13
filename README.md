@@ -1,2 +1,2 @@
-# OpenUniStuff
-a place for all my files for M250 and TT284 and other useful stuff.
+# TT284
+A place for all my files and other TT284 related stuff
